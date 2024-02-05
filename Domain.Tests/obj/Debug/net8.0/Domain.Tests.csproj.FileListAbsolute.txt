@@ -1,0 +1,15 @@
+C:\DEV\Sources\ShipApi\Domain.Tests\bin\Debug\net8.0\Domain.Tests.deps.json
+C:\DEV\Sources\ShipApi\Domain.Tests\bin\Debug\net8.0\Domain.Tests.dll
+C:\DEV\Sources\ShipApi\Domain.Tests\bin\Debug\net8.0\Domain.Tests.pdb
+C:\DEV\Sources\ShipApi\Domain.Tests\bin\Debug\net8.0\Domain.dll
+C:\DEV\Sources\ShipApi\Domain.Tests\bin\Debug\net8.0\Domain.pdb
+C:\DEV\Sources\ShipApi\Domain.Tests\obj\Debug\net8.0\Domain.Tests.csproj.AssemblyReference.cache
+C:\DEV\Sources\ShipApi\Domain.Tests\obj\Debug\net8.0\Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Sources\ShipApi\Domain.Tests\obj\Debug\net8.0\Domain.Tests.AssemblyInfoInputs.cache
+C:\DEV\Sources\ShipApi\Domain.Tests\obj\Debug\net8.0\Domain.Tests.AssemblyInfo.cs
+C:\DEV\Sources\ShipApi\Domain.Tests\obj\Debug\net8.0\Domain.Tests.csproj.CoreCompileInputs.cache
+C:\DEV\Sources\ShipApi\Domain.Tests\obj\Debug\net8.0\Domain.Tests.csproj.CopyComplete
+C:\DEV\Sources\ShipApi\Domain.Tests\obj\Debug\net8.0\Domain.Tests.dll
+C:\DEV\Sources\ShipApi\Domain.Tests\obj\Debug\net8.0\refint\Domain.Tests.dll
+C:\DEV\Sources\ShipApi\Domain.Tests\obj\Debug\net8.0\Domain.Tests.pdb
+C:\DEV\Sources\ShipApi\Domain.Tests\obj\Debug\net8.0\ref\Domain.Tests.dll

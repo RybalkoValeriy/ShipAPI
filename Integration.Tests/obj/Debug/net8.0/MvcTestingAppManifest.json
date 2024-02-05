@@ -1,0 +1,6 @@
+{
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DEV\\Sources\\ShipApi\\Application",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DEV\\Sources\\ShipApi\\Domain",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DEV\\Sources\\ShipApi\\Infrastructure",
+  "ShipApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DEV\\Sources\\ShipApi\\ShipApi"
+}

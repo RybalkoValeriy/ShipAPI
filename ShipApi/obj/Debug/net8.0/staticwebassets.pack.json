@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\DEV\\Sources\\ShipApi\\ShipApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\DEV\\Sources\\ShipApi\\ShipApi\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\DEV\\Sources\\ShipApi\\ShipApi\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShipApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShipApi.props",
+      "PackagePath": "build\\ShipApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShipApi.props",
+      "PackagePath": "buildMultiTargeting\\ShipApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShipApi.props",
+      "PackagePath": "buildTransitive\\ShipApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
