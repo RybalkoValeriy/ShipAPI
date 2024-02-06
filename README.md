@@ -11,4 +11,4 @@
 - used database in memory and Entity Framework
 - global exception handling
 - UI added as static files index.html +CSS+JS
-- added test projects
+- added test projects - not all cases are being covered, too much monotonic work :)
