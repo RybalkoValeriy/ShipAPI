@@ -98,6 +98,7 @@ C:\DEV\Sources\ShipApi\Domain.UnitTests\obj\Debug\net8.0\Domain.UnitTests.Genera
 C:\DEV\Sources\ShipApi\Domain.UnitTests\obj\Debug\net8.0\Domain.UnitTests.AssemblyInfoInputs.cache
 C:\DEV\Sources\ShipApi\Domain.UnitTests\obj\Debug\net8.0\Domain.UnitTests.AssemblyInfo.cs
 C:\DEV\Sources\ShipApi\Domain.UnitTests\obj\Debug\net8.0\Domain.UnitTests.csproj.CoreCompileInputs.cache
+C:\DEV\Sources\ShipApi\Domain.UnitTests\obj\Debug\net8.0\Domain.UnitTests.sourcelink.json
 C:\DEV\Sources\ShipApi\Domain.UnitTests\obj\Debug\net8.0\Domain.UnitTests.csproj.CopyComplete
 C:\DEV\Sources\ShipApi\Domain.UnitTests\obj\Debug\net8.0\Domain.UnitTests.dll
 C:\DEV\Sources\ShipApi\Domain.UnitTests\obj\Debug\net8.0\refint\Domain.UnitTests.dll

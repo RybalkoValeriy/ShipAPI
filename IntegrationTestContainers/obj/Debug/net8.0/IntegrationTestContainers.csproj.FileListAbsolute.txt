@@ -4,6 +4,7 @@ C:\DEV\Sources\ShipApi\IntegrationTestContainers\bin\Debug\net8.0\ShipApi.deps.j
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\bin\Debug\net8.0\ShipApi.runtimeconfig.json
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\bin\Debug\net8.0\appsettings.Development.json
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\bin\Debug\net8.0\appsettings.json
+C:\DEV\Sources\ShipApi\IntegrationTestContainers\bin\Debug\net8.0\ShipApi.staticwebassets.runtime.json
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\bin\Debug\net8.0\ShipApi.exe
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\bin\Debug\net8.0\testhost.exe
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\bin\Debug\net8.0\MvcTestingAppManifest.json
@@ -472,10 +473,10 @@ C:\DEV\Sources\ShipApi\IntegrationTestContainers\obj\Debug\net8.0\IntegrationTes
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\obj\Debug\net8.0\IntegrationTestContainers.AssemblyInfoInputs.cache
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\obj\Debug\net8.0\IntegrationTestContainers.AssemblyInfo.cs
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\obj\Debug\net8.0\IntegrationTestContainers.csproj.CoreCompileInputs.cache
+C:\DEV\Sources\ShipApi\IntegrationTestContainers\obj\Debug\net8.0\IntegrationTestContainers.sourcelink.json
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\obj\Debug\net8.0\IntegrationTestContainers.csproj.CopyComplete
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\obj\Debug\net8.0\IntegrationTestContainers.dll
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\obj\Debug\net8.0\refint\IntegrationTestContainers.dll
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\obj\Debug\net8.0\IntegrationTestContainers.pdb
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\obj\Debug\net8.0\IntegrationTestContainers.genruntimeconfig.cache
 C:\DEV\Sources\ShipApi\IntegrationTestContainers\obj\Debug\net8.0\ref\IntegrationTestContainers.dll
-C:\DEV\Sources\ShipApi\IntegrationTestContainers\bin\Debug\net8.0\ShipApi.staticwebassets.runtime.json

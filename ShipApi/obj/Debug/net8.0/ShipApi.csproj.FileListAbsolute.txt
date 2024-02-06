@@ -1,5 +1,6 @@
 C:\DEV\Sources\ShipApi\ShipApi\bin\Debug\net8.0\appsettings.Development.json
 C:\DEV\Sources\ShipApi\ShipApi\bin\Debug\net8.0\appsettings.json
+C:\DEV\Sources\ShipApi\ShipApi\bin\Debug\net8.0\ShipApi.staticwebassets.runtime.json
 C:\DEV\Sources\ShipApi\ShipApi\bin\Debug\net8.0\ShipApi.exe
 C:\DEV\Sources\ShipApi\ShipApi\bin\Debug\net8.0\ShipApi.deps.json
 C:\DEV\Sources\ShipApi\ShipApi\bin\Debug\net8.0\ShipApi.runtimeconfig.json
@@ -25,6 +26,7 @@ C:\DEV\Sources\ShipApi\ShipApi\obj\Debug\net8.0\ShipApi.AssemblyInfo.cs
 C:\DEV\Sources\ShipApi\ShipApi\obj\Debug\net8.0\ShipApi.csproj.CoreCompileInputs.cache
 C:\DEV\Sources\ShipApi\ShipApi\obj\Debug\net8.0\ShipApi.MvcApplicationPartsAssemblyInfo.cs
 C:\DEV\Sources\ShipApi\ShipApi\obj\Debug\net8.0\ShipApi.MvcApplicationPartsAssemblyInfo.cache
+C:\DEV\Sources\ShipApi\ShipApi\obj\Debug\net8.0\ShipApi.sourcelink.json
 C:\DEV\Sources\ShipApi\ShipApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\DEV\Sources\ShipApi\ShipApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\DEV\Sources\ShipApi\ShipApi\obj\Debug\net8.0\staticwebassets\msbuild.ShipApi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -39,4 +41,3 @@ C:\DEV\Sources\ShipApi\ShipApi\obj\Debug\net8.0\refint\ShipApi.dll
 C:\DEV\Sources\ShipApi\ShipApi\obj\Debug\net8.0\ShipApi.pdb
 C:\DEV\Sources\ShipApi\ShipApi\obj\Debug\net8.0\ShipApi.genruntimeconfig.cache
 C:\DEV\Sources\ShipApi\ShipApi\obj\Debug\net8.0\ref\ShipApi.dll
-C:\DEV\Sources\ShipApi\ShipApi\bin\Debug\net8.0\ShipApi.staticwebassets.runtime.json

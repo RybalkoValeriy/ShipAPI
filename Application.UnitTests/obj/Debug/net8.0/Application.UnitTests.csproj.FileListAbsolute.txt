@@ -116,6 +116,7 @@ C:\DEV\Sources\ShipApi\Application.UnitTests\obj\Debug\net8.0\Application.UnitTe
 C:\DEV\Sources\ShipApi\Application.UnitTests\obj\Debug\net8.0\Application.UnitTests.AssemblyInfoInputs.cache
 C:\DEV\Sources\ShipApi\Application.UnitTests\obj\Debug\net8.0\Application.UnitTests.AssemblyInfo.cs
 C:\DEV\Sources\ShipApi\Application.UnitTests\obj\Debug\net8.0\Application.UnitTests.csproj.CoreCompileInputs.cache
+C:\DEV\Sources\ShipApi\Application.UnitTests\obj\Debug\net8.0\Application.UnitTests.sourcelink.json
 C:\DEV\Sources\ShipApi\Application.UnitTests\obj\Debug\net8.0\Application.UnitTests.csproj.CopyComplete
 C:\DEV\Sources\ShipApi\Application.UnitTests\obj\Debug\net8.0\Application.UnitTests.dll
 C:\DEV\Sources\ShipApi\Application.UnitTests\obj\Debug\net8.0\refint\Application.UnitTests.dll

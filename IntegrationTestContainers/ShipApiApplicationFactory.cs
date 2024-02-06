@@ -43,8 +43,10 @@ public class ShipApiApplicationFactory : WebApplicationFactory<Program>, IAsyncL
 
             services.AddDbContext<ShipDbContext>(
                 options =>
-                options.UseSqlServer(
-                    $"Server={host},{port};Database={Database};User Id={Username};Password={Password};TrustServerCertificate=True"));
+                options.UseInMemoryDatabase(databaseName: "ShipDb")
+                //options.UseSqlServer(
+                //    $"Server={host},{port};Database={Database};User Id={Username};Password={Password};TrustServerCertificate=True")
+                );
         });
     }
 
