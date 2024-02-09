@@ -9,7 +9,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ShipApi.Controllers;
 
-// http://localhost:5062/api/v1/ships
 [Route("api/v1/[controller]")]
 public class ShipsController : Controller
 {
@@ -60,6 +59,13 @@ public class ShipsController : Controller
         return Ok();
     }
 
+    /// <summary>
+    /// Update ship
+    /// </summary>
+    /// <param name="code"></param>
+    /// <param name="request"></param>
+    /// <param name="cancellationToken"></param>
+    /// <returns></returns>
     [HttpPut("{code}")]
     public async Task<IActionResult> Update([FromRoute] string code, [FromBody] ShipRequest request, CancellationToken cancellationToken)
     {

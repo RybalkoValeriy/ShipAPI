@@ -2,10 +2,10 @@
 
 public record Ship
 {
-    public Code Code { get; set; }
-    public string Name { get; set; }
-    public int Length { get; set; }
-    public int Width { get; set; }
+    public Code Code { get; private set; }
+    public string Name { get; private set; }
+    public int Length { get; private set; }
+    public int Width { get; private set; }
 
     private Ship(Code code, string name, int length, int width)
     {
