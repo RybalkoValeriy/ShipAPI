@@ -10,7 +10,6 @@ public static class TestHelper
 
         var second = string.Concat(Enumerable.Range(0, 4)
             .Select(_ => random.Next(10).ToString()));
-            
 
         var last = $"{(char)(random.Next(26) + 'A')}{random.Next(10)}";
 

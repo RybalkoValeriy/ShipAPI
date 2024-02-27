@@ -11,7 +11,7 @@ public class CommandHandlersTests
     [Test]
     public async Task CreateShipCommand_Should_Handler()
     {
-        // Arrange 
+        // Arrange
         var command = new CreateShipCommand("code", "name", 1, 1);
         var mockCommandHandler = new Mock<ICommandHandler<CreateShipCommand>>();
         var sut = mockCommandHandler.Object;
@@ -26,7 +26,7 @@ public class CommandHandlersTests
     [Test]
     public async Task DeleteShipCommand_Should_Handler()
     {
-        // Arrange 
+        // Arrange
         var command = new DeleteShipCommand("code");
         var mockCommandHandler = new Mock<ICommandHandler<DeleteShipCommand>>();
         var sut = mockCommandHandler.Object;
@@ -41,7 +41,7 @@ public class CommandHandlersTests
     [Test]
     public async Task UpdateShipCommand_Should_Handler()
     {
-        // Arrange 
+        // Arrange
         var command = new UpdateShipCommand("code", "name", 1, 1);
         var mockCommandHandler = new Mock<ICommandHandler<UpdateShipCommand>>();
         var sut = mockCommandHandler.Object;
@@ -53,4 +53,3 @@ public class CommandHandlersTests
         mockCommandHandler.Verify(h => h.SendAsync(command, CancellationToken.None), Times.Once);
     }
 }
-

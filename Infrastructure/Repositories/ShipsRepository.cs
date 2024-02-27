@@ -18,7 +18,7 @@ public class ShipsRepository : IShipsRepository
 
     public async Task DeleteAsync(Ship ship, CancellationToken cancellationToken = default)
     {
-        _dbContext.Remove(ship); 
+        _dbContext.Remove(ship);
         await _dbContext.SaveChangesAsync(cancellationToken);
     }
 
